@@ -1,0 +1,20 @@
+{
+  "name": "kev-dev-portfolio",
+  "version": "1.0.0",
+  "description": "Site que será meu portfolio, mostrando o que consigo fazer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin27K/kev-dev-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin27K/kev-dev-portfolio/issues"
+  },
+  "homepage": "https://github.com/kevin27K/kev-dev-portfolio#readme"
+}
