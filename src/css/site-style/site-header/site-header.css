@@ -1,0 +1,11 @@
+@import "./site-header-elements/site-header-elements.css";
+@import "./site-header-options/site-header-options.css";
+
+
+.site-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: blueviolet;
+}

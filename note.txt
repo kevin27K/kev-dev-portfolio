@@ -1,0 +1,35 @@
+CSS
+
+A estrutura do css
+
+A pasta CSS contem as pastas LAYOUT, RESET, SITE-STYLE, STYLE.
+Todas as pastas tem um arquivo.css com seus nomes.
+
+ou seja
+
+TODO DIRETORIO TEM UM ARQUIVO CSS PRINCIPAL!!!
+
+Por esse arquivo principal importamos os arquivos dos sub diretorios
+
+CSS
+    -LAYOUT
+        -FLEXBOX
+                -flexbox.css
+
+        -GRID 
+                -grid.css   
+
+        -layout.css      /*esse arquivo importa flexbox.css e grid.css*/
+
+    -RESET
+    ..
+    ..
+    ..        
+
+Todas as pastas são organizadas assim.
+
+O objetivo é criar uma estrutura de pastas que seja escalavel.
+para um projeto pequeno não é a melhor opção separar tanto as responsabilidades,
+pois fica mais complexo dar manutenção. 
+
+porem a ideia é fazer um projeto maior com o passar do tempo.

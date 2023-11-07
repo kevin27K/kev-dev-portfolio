@@ -1,0 +1,16 @@
+.site-nav-button-menu{
+    width: 20%;
+    height: 10%; /*tem que caulcular o tamanhode acordo com width   */
+    
+    position: absolute;
+    top: calc(50% - 2.5em);
+    left: -12%;
+
+    border-radius: 50%;
+
+    border: none;
+    color: #fff;
+    background-color: rgb(179, 3, 3);
+    
+    z-index: 10;
+}

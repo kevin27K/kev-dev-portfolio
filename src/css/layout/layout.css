@@ -1,0 +1,8 @@
+@import "./grid/grid.css";
+@import "./flexbox/flexbox.css";
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 12vh 1fr;
+}
